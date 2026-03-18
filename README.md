@@ -20,7 +20,7 @@ Liar’s Dice is a **bluffing and probability-based dice game**.
 - Each new bid must be higher, or a player can challenge (call a bluff)
 - When challenged, all dice are revealed:
   - If the bid is valid → bidder wins  
-  - If not → challenger wins :contentReference[oaicite:0]{index=0}
+  - If not → challenger wins
 
 The goal is to outlast other players by making accurate judgments or convincing bluffs.
 
